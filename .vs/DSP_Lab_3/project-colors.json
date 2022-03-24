@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bd0ddd02-446e-488c-aa7c-7d81e8e5a731": {
+      "ProjectGuid": "bd0ddd02-446e-488c-aa7c-7d81e8e5a731",
+      "DisplayName": "DSP_Lab_3",
+      "ColorIndex": 0
+    },
+    "74a01c60-c0ca-4c14-b57c-f111322f50fc": {
+      "ProjectGuid": "74a01c60-c0ca-4c14-b57c-f111322f50fc",
+      "DisplayName": "UnitTest1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
