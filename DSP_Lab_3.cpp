@@ -40,7 +40,7 @@ void Bell(int** F, int* B, int n)
         B[j] = 0;
 
     for (int j = 0; j < n; j++)
-        for (int k = 0; k < j; k++)
+        for (int k = 0; k <= j; k++)
         {
             B[j] = B[j] + F[j][k];
         }
